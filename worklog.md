@@ -24,6 +24,6 @@ April 18, 2019
 
 **Thoughts:** Started in a not so great mood. Hope I continue to finish this target.
 
-**Link to work:**  [Leet Code Problem](https://github.com/jjayamohan/100-days-of-code/blob/master/src/main/java/com.jay/leetcode/easy/AddDigit.java)
+**Link to work:**  [Leet Code Problem](https://github.com/jjayamohan/100-days-of-code/blob/master/src/main/java/com.jay/leetcode/easy/StockBestTimeToBuySell.java)
 , [Android Fundamentals](https://developer.android.com/guide/components/fundamentals)  
 
