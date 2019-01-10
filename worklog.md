@@ -27,3 +27,11 @@ April 18, 2019
 **Link to work:**  [Leet Code Problem](https://github.com/jjayamohan/100-days-of-code/blob/master/src/main/java/com.jay/leetcode/easy/StockBestTimeToBuySell.java)
 , [Android Fundamentals](https://developer.android.com/guide/components/fundamentals)  
 
+
+### Day 1: January 10, 2019 
+
+**Today's Progress**: 1 Leet code medium hard problem. Didn't solve in time. 
+
+**Thoughts:** Birthday eve, so no regrets.
+
+**Link to work:**  [Leet Code Problem](https://github.com/jjayamohan/100-days-of-code/blob/master/src/main/java/com.jay/leetcode/medium/AccountsMerge.java) 
