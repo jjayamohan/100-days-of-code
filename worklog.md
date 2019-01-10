@@ -28,7 +28,7 @@ April 18, 2019
 , [Android Fundamentals](https://developer.android.com/guide/components/fundamentals)  
 
 
-### Day 1: January 10, 2019 
+### Day 2: January 10, 2019 
 
 **Today's Progress**: 1 Leet code medium hard problem. Didn't solve in time. 
 
